@@ -1,0 +1,13 @@
+name = "Nether Chested"
+filename = "NetherChested-v8.0.3-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bHJp2GRg/versions/tVFcuxZG/NetherChested-v8.0.3-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "c5c1a26f8ad6d1822515f0327f253fc4973a810d"
+
+[update]
+[update.modrinth]
+mod-id = "bHJp2GRg"
+version = "tVFcuxZG"

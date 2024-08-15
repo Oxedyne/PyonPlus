@@ -1,0 +1,13 @@
+name = "GraveStone Mod"
+filename = "gravestone-forge-1.20.1-1.0.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RYtXKJPr/versions/DH68m6VN/gravestone-forge-1.20.1-1.0.20.jar"
+hash-format = "sha1"
+hash = "50aa16a8202f7034d11afbaf92a912d9294a4420"
+
+[update]
+[update.modrinth]
+mod-id = "RYtXKJPr"
+version = "DH68m6VN"
