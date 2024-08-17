@@ -1,0 +1,13 @@
+name = "[Let's Do] Farm & Charm"
+filename = "letsdo-farm_and_charm-forge-1.0.1.jar"
+side="both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HJetCzWo/versions/vZ7Ddgfg/letsdo-farm_and_charm-forge-1.0.1.jar"
+hash-format = "sha256"
+hash = "58df0cbbd47e9c58a9f717c03f14709f5c1e9d7d1b5801d78ec534b68d88ccf5"
+
+[update]
+[update.modrinth]
+mod-id = "HJetCzWo"
+version = "vZ7Ddgfg"

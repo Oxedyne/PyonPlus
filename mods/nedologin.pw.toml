@@ -1,0 +1,13 @@
+name = "Nedologin"
+filename = "Nedologin-1.20.1-1.0.8-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fnP1u8PK/versions/BgTagaI8/Nedologin-1.20.1-1.0.8-all.jar"
+hash-format = "sha1"
+hash = "ba230369b9aadf0bb0f9cc30f4e1af2c6122581a"
+
+[update]
+[update.modrinth]
+mod-id = "fnP1u8PK"
+version = "BgTagaI8"
